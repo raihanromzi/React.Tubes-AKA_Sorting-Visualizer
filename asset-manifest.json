@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web-tubes-aka/static/css/main.868e2091.chunk.css",
+    "main.js": "/web-tubes-aka/static/js/main.053b3ce5.chunk.js",
+    "main.js.map": "/web-tubes-aka/static/js/main.053b3ce5.chunk.js.map",
+    "runtime-main.js": "/web-tubes-aka/static/js/runtime-main.f9a58c99.js",
+    "runtime-main.js.map": "/web-tubes-aka/static/js/runtime-main.f9a58c99.js.map",
+    "static/js/2.0caf21e4.chunk.js": "/web-tubes-aka/static/js/2.0caf21e4.chunk.js",
+    "static/js/2.0caf21e4.chunk.js.map": "/web-tubes-aka/static/js/2.0caf21e4.chunk.js.map",
+    "index.html": "/web-tubes-aka/index.html",
+    "precache-manifest.40cde40338b6cf2684fca21ae747f3c9.js": "/web-tubes-aka/precache-manifest.40cde40338b6cf2684fca21ae747f3c9.js",
+    "service-worker.js": "/web-tubes-aka/service-worker.js",
+    "static/css/main.868e2091.chunk.css.map": "/web-tubes-aka/static/css/main.868e2091.chunk.css.map",
+    "static/js/2.0caf21e4.chunk.js.LICENSE.txt": "/web-tubes-aka/static/js/2.0caf21e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9a58c99.js",
+    "static/js/2.0caf21e4.chunk.js",
+    "static/css/main.868e2091.chunk.css",
+    "static/js/main.053b3ce5.chunk.js"
+  ]
+}
