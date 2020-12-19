@@ -1,0 +1,39 @@
+.cont{
+  position: fixed;
+  top: 10vh;
+  display: block;
+}
+
+body{
+  background-color: #ddd;
+}
+
+.singleContainer{
+  left: 17vw;
+}
+
+.doubleContainer{
+  left: 17vw;
+}
+
+.barElem{
+  display: inline-block;
+  position: relative;
+  margin-right: 2px;
+  background-color: #777;
+  width: 0.5vw;
+  bottom: 0;
+  border-radius: 2px;
+}
+.square{
+  display: inline-block;
+  position: relative;
+  border: 1px solid black;
+  margin: 4px;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
