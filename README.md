@@ -1,4 +1,4 @@
-
+Sorting Visual
 *Sorting Visualizer for Merge and Quick Sort*
 
 This repository built using React JS that can visualize the popular Sorting Algorithms and generate the animations.
