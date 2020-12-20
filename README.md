@@ -10,7 +10,7 @@ This repository built using React JS that can visualize the popular Sorting Algo
 
 #### For Web Version
 
-- Visit https://raihanromzi.github.io/tubes-aka
+- Visit https://raihanromzi.github.io/web-tubes-aka
 
 ### TODO
 - Comparisons between algorithms
